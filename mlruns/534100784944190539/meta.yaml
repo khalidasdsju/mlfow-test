@@ -1,0 +1,6 @@
+artifact_location: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/534100784944190539
+creation_time: 1744534385732
+experiment_id: '534100784944190539'
+last_update_time: 1744534385732
+lifecycle_stage: active
+name: iris_logistic_regression_experiment

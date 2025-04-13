@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/407885842495164317/a6978818e9704c5594f8c07dc3e4ab93/artifacts
+deleted_time: 1744534139749
+end_time: 1744530778684
+entry_point_name: ''
+experiment_id: '407885842495164317'
+lifecycle_stage: deleted
+run_id: a6978818e9704c5594f8c07dc3e4ab93
+run_name: treasured-flea-970
+run_uuid: a6978818e9704c5594f8c07dc3e4ab93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744530777765
+status: 3
+tags: []
+user_id: khalid

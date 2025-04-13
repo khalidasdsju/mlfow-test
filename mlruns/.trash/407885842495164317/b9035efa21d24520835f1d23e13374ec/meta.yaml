@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/407885842495164317/b9035efa21d24520835f1d23e13374ec/artifacts
+deleted_time: 1744534139749
+end_time: 1744530781478
+entry_point_name: ''
+experiment_id: '407885842495164317'
+lifecycle_stage: deleted
+run_id: b9035efa21d24520835f1d23e13374ec
+run_name: bustling-slug-906
+run_uuid: b9035efa21d24520835f1d23e13374ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744530780563
+status: 3
+tags: []
+user_id: khalid

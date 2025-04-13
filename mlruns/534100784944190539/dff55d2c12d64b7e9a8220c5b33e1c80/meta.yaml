@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/534100784944190539/dff55d2c12d64b7e9a8220c5b33e1c80/artifacts
+end_time: 1744534742749
+entry_point_name: ''
+experiment_id: '534100784944190539'
+lifecycle_stage: active
+run_id: dff55d2c12d64b7e9a8220c5b33e1c80
+run_name: classy-crane-651
+run_uuid: dff55d2c12d64b7e9a8220c5b33e1c80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744534741627
+status: 3
+tags: []
+user_id: khalid

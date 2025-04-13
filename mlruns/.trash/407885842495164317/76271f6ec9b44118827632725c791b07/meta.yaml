@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/407885842495164317/76271f6ec9b44118827632725c791b07/artifacts
+deleted_time: 1744534139749
+end_time: 1744530760376
+entry_point_name: ''
+experiment_id: '407885842495164317'
+lifecycle_stage: deleted
+run_id: 76271f6ec9b44118827632725c791b07
+run_name: zealous-whale-115
+run_uuid: 76271f6ec9b44118827632725c791b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744530759417
+status: 3
+tags: []
+user_id: khalid

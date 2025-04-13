@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/534100784944190539/e254c9ffba744c86a743b46352cf4d1d/artifacts
+end_time: 1744534386893
+entry_point_name: ''
+experiment_id: '534100784944190539'
+lifecycle_stage: active
+run_id: e254c9ffba744c86a743b46352cf4d1d
+run_name: painted-perch-420
+run_uuid: e254c9ffba744c86a743b46352cf4d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744534385777
+status: 3
+tags: []
+user_id: khalid

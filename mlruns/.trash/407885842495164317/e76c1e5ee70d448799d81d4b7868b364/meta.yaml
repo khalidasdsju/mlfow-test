@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/407885842495164317/e76c1e5ee70d448799d81d4b7868b364/artifacts
+deleted_time: 1744534139749
+end_time: 1744530761300
+entry_point_name: ''
+experiment_id: '407885842495164317'
+lifecycle_stage: deleted
+run_id: e76c1e5ee70d448799d81d4b7868b364
+run_name: clumsy-trout-552
+run_uuid: e76c1e5ee70d448799d81d4b7868b364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744530760377
+status: 3
+tags: []
+user_id: khalid

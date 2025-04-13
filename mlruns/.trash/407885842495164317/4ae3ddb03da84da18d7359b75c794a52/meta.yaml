@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/407885842495164317/4ae3ddb03da84da18d7359b75c794a52/artifacts
+deleted_time: 1744534139749
+end_time: 1744530772194
+entry_point_name: ''
+experiment_id: '407885842495164317'
+lifecycle_stage: deleted
+run_id: 4ae3ddb03da84da18d7359b75c794a52
+run_name: carefree-hawk-193
+run_uuid: 4ae3ddb03da84da18d7359b75c794a52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744530771288
+status: 3
+tags: []
+user_id: khalid

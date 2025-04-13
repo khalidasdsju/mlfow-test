@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/407885842495164317/ecb32473191b49928e8612b3e22b2a7d/artifacts
+deleted_time: 1744534139749
+end_time: 1744530758506
+entry_point_name: ''
+experiment_id: '407885842495164317'
+lifecycle_stage: deleted
+run_id: ecb32473191b49928e8612b3e22b2a7d
+run_name: efficient-ape-832
+run_uuid: ecb32473191b49928e8612b3e22b2a7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744530757597
+status: 3
+tags: []
+user_id: khalid

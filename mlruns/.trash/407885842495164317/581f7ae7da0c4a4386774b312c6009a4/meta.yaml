@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/407885842495164317/581f7ae7da0c4a4386774b312c6009a4/artifacts
+deleted_time: 1744534139749
+end_time: 1744530787176
+entry_point_name: ''
+experiment_id: '407885842495164317'
+lifecycle_stage: deleted
+run_id: 581f7ae7da0c4a4386774b312c6009a4
+run_name: ambitious-fowl-402
+run_uuid: 581f7ae7da0c4a4386774b312c6009a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744530786223
+status: 3
+tags: []
+user_id: khalid

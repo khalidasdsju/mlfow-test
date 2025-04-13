@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/534100784944190539/d491f19ed6ee4b5882830c5bcaacb2b2/artifacts
+end_time: 1744536669416
+entry_point_name: ''
+experiment_id: '534100784944190539'
+lifecycle_stage: active
+run_id: d491f19ed6ee4b5882830c5bcaacb2b2
+run_name: inquisitive-bear-377
+run_uuid: d491f19ed6ee4b5882830c5bcaacb2b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744536668298
+status: 3
+tags: []
+user_id: khalid

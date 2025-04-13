@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/407885842495164317/700c1c25f658403781743a30d84a5d97/artifacts
+deleted_time: 1744534139749
+end_time: 1744530779628
+entry_point_name: ''
+experiment_id: '407885842495164317'
+lifecycle_stage: deleted
+run_id: 700c1c25f658403781743a30d84a5d97
+run_name: wise-tern-119
+run_uuid: 700c1c25f658403781743a30d84a5d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744530778685
+status: 3
+tags: []
+user_id: khalid

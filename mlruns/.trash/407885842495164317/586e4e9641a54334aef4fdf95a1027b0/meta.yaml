@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/407885842495164317/586e4e9641a54334aef4fdf95a1027b0/artifacts
+deleted_time: 1744534139749
+end_time: 1744530780562
+entry_point_name: ''
+experiment_id: '407885842495164317'
+lifecycle_stage: deleted
+run_id: 586e4e9641a54334aef4fdf95a1027b0
+run_name: spiffy-mule-2
+run_uuid: 586e4e9641a54334aef4fdf95a1027b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744530779629
+status: 3
+tags: []
+user_id: khalid

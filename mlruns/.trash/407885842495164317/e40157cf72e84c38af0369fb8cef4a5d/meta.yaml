@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/407885842495164317/e40157cf72e84c38af0369fb8cef4a5d/artifacts
+deleted_time: 1744534139749
+end_time: 1744530786222
+entry_point_name: ''
+experiment_id: '407885842495164317'
+lifecycle_stage: deleted
+run_id: e40157cf72e84c38af0369fb8cef4a5d
+run_name: shivering-grub-905
+run_uuid: e40157cf72e84c38af0369fb8cef4a5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744530785249
+status: 3
+tags: []
+user_id: khalid

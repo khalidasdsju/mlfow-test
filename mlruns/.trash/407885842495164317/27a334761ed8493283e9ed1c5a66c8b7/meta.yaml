@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/407885842495164317/27a334761ed8493283e9ed1c5a66c8b7/artifacts
+deleted_time: 1744534139749
+end_time: 1744530782420
+entry_point_name: ''
+experiment_id: '407885842495164317'
+lifecycle_stage: deleted
+run_id: 27a334761ed8493283e9ed1c5a66c8b7
+run_name: entertaining-pig-692
+run_uuid: 27a334761ed8493283e9ed1c5a66c8b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744530781479
+status: 3
+tags: []
+user_id: khalid

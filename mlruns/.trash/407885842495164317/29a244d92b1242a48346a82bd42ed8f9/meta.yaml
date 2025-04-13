@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/407885842495164317/29a244d92b1242a48346a82bd42ed8f9/artifacts
+deleted_time: 1744534139749
+end_time: 1744530773103
+entry_point_name: ''
+experiment_id: '407885842495164317'
+lifecycle_stage: deleted
+run_id: 29a244d92b1242a48346a82bd42ed8f9
+run_name: blushing-pug-270
+run_uuid: 29a244d92b1242a48346a82bd42ed8f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744530772194
+status: 3
+tags: []
+user_id: khalid

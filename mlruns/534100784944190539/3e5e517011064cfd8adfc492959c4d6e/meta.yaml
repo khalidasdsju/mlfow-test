@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/534100784944190539/3e5e517011064cfd8adfc492959c4d6e/artifacts
+end_time: 1744538791388
+entry_point_name: ''
+experiment_id: '534100784944190539'
+lifecycle_stage: active
+run_id: 3e5e517011064cfd8adfc492959c4d6e
+run_name: merciful-dove-357
+run_uuid: 3e5e517011064cfd8adfc492959c4d6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744538788567
+status: 3
+tags: []
+user_id: khalid

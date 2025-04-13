@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/khalid/Desktop/MLfolw%20test/mlruns/534100784944190539/1574e64766e940a5a7817124bfa42486/artifacts
+end_time: 1744541594390
+entry_point_name: ''
+experiment_id: '534100784944190539'
+lifecycle_stage: active
+run_id: 1574e64766e940a5a7817124bfa42486
+run_name: unruly-hawk-369
+run_uuid: 1574e64766e940a5a7817124bfa42486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744541592210
+status: 3
+tags: []
+user_id: khalid

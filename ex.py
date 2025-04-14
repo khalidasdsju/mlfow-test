@@ -44,11 +44,11 @@ def train_regression_model():
 
     # Define model parameters
     params = {
-        "n_estimators": 500,
+        "n_estimators": 100,
         "criterion": "squared_error",
         "max_depth": None,
-        "min_samples_split": 5,
-        "min_samples_leaf": 1,
+        "min_samples_split": 15,
+        "min_samples_leaf": 5,
         "min_weight_fraction_leaf": 0.0,
         "max_features": "sqrt",
         "max_leaf_nodes": None,

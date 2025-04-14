@@ -1,4 +1,4 @@
-# Random Forest Regression with MLflow
+# Learing & Testing MLflow
 
 This project demonstrates how to train a Random Forest Regression model and track experiments using MLflow with DagsHub integration.
 
